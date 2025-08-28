@@ -1,3 +1,28 @@
-div {
-    background-color: aqua;
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
 }
+
+nav li a {
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: rgb(47, 47, 101);
+}
+footer {
+    text-align: center;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
